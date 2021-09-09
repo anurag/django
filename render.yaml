@@ -1,7 +1,8 @@
+previewsEnabled: true
 databases:
-  - name: mysite
-    databaseName: mysite
-    user: mysite
+- name: mysite
+  databaseName: mysite
+  user: mysite
 
 services:
   - type: web
